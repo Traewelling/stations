@@ -608,7 +608,7 @@ EVA_NR;DS100;IFOPT;NAME;Longitude;Latitude;Betreiber_Name
 8000766;RBWH;de:08125:5606;Bad Wimpfen-Hohenstadt;9,138753;49,242537;DB Station und Service AG
 8000767;NBWI;de:09575:14100;Bad Windsheim;10,412942;49,5066;DB Station und Service AG
 8000768;MBWH;de:09778:1430;Bad Wörishofen;10,597875;48,005711;DB Station und Service AG
-8000769;TBW;de:08436:98;Bad Wurzach;9,889739;47,910258;Stadt Bad Wurzach 
+8000769;TBW;de:08436:98;Bad Wurzach;9,889739;47,910258;Stadt Bad Wurzach
 8000770;HZWI;de:03451:6417;Bad Zwischenahn;8,003123;53,182547;DB Station und Service AG
 8000771;RHEB;de:08211:35110;Baden-Baden Haueneberstein;8,209021;48,811907;DB Station und Service AG
 8000772;HBAD;de:03158:3158;Baddeckenstedt;10,228767;52,08916;DB Station und Service AG
@@ -1111,7 +1111,7 @@ EVA_NR;DS100;IFOPT;NAME;Longitude;Latitude;Betreiber_Name
 8001576;RDBG;de:08215:1548;Dürrenbüchig;8,648181;49,023952;Albtal-Verkehrs-Gesellschaft mbH
 8001578;MDHR;de:09184:2250;Dürrnhaar;11,736607;47,993954;DB Station und Service AG
 8001579;KDFS;de:05111:18785;Düsseldorf Friedrichstadt;6,78905725;51,2119748;DB Station und Service AG
-8001580;KDF;de:05111:18517;Düsseldorf Flughafen Terminal;6,766979;51,278517;Betreibergesellschaft Flughafen Düsseldorf GmbH
+8001580;KDF;de:05111:18517;Düsseldorf Flughafen Terminal;6,766979;51,278517;BetreibergesellschaftFlughafen Düsseldorf GmbH
 8001581;KDV;de:05111:18006;Düsseldorf Volksgarten;6,791978;51,210138;DB Station und Service AG
 8001582;KDW;de:05111:18019;Düsseldorf Wehrhahn;6,798173;51,228447;DB Station und Service AG
 8001583;KDZ;de:05111:18012;Düsseldorf-Zoo;6,796924;51,236962;DB Station und Service AG
@@ -6223,8 +6223,8 @@ EVA_NR;DS100;IFOPT;NAME;Longitude;Latitude;Betreiber_Name
 8079026;AMSS;de:01060:37969;Meeschensee;9,97963;53,754222;AKN Eisenbahn AG
 8079027;ANDM;de:01060:36961;Norderstedt Mitte;9,992378;53,707687;AKN Eisenbahn AG
 8079028;AQBS;de:01060:37971;Quickborner Straße;9,989818;53,734426;AKN Eisenbahn AG
-8079035;RKMAK;de:08212:1;Karlsruhe Marktplatz (Kaiserstraße);8,404555;49,009554;Verkehrsbetriebe Karlsruhe GmbH 
-8079041;RKV;de:08212:89;Karlsruhe Bahnhofsvorplatz;8,399587;48,994346;Verkehrsbetriebe Karlsruhe GmbH 
+8079035;RKMAK;de:08212:1;Karlsruhe Marktplatz (Kaiserstraße);8,404555;49,009554;Verkehrsbetriebe Karlsruhe GmbH
+8079041;RKV;de:08212:89;Karlsruhe Bahnhofsvorplatz;8,399587;48,994346;Verkehrsbetriebe Karlsruhe GmbH
 8079042;RHOSG;de:08215:1155;Hochstetten Grenzstraße;8,415723;49,12955;Albtal-Verkehrs-Gesellschaft mbH
 8079045;RKAB;de:08212:1201;Karlsruhe Albtalbahnhof;8,39611;48,993707;Albtal-Verkehrs-Gesellschaft mbH
 8079047;RKNEK;de:08212:1115;Karlsruhe-Neureut Kirchfeld;8,388835;49,052912;Albtal-Verkehrs-Gesellschaft mbH
@@ -6251,14 +6251,14 @@ EVA_NR;DS100;IFOPT;NAME;Longitude;Latitude;Betreiber_Name
 8079095;HHN;de:03241:255;Hannover-Nordstadt;9,717763;52,393845;DB Station und Service AG
 8079097;HLEG;de:03241:4411;Hannover-Ledeburg;9,691117;52,408787;DB Station und Service AG
 8079118;SBNS;de:07340:6296;Busenberg-Schindhard;7,799703;49,138868;Albtal-Verkehrs-Gesellschaft mbH
-8079125;RKDT;de:08212:3;Karlsruhe Durlacher Tor / KIT-Campus Süd;8,41807008;49,0088397;Verkehrsbetriebe Karlsruhe GmbH 
-8079126;RKEF;de:08212:51;Karlsruhe Entenfang;8,359504;49,010666;Verkehrsbetriebe Karlsruhe GmbH 
-8079128;RKSR;de:08212:107;Karlsruhe-Kniel. Rheinbergstr.;8,336613;49,035015;Verkehrsbetriebe Karlsruhe GmbH 
+8079125;RKDT;de:08212:3;Karlsruhe Durlacher Tor / KIT-Campus Süd;8,41807008;49,0088397;Verkehrsbetriebe Karlsruhe GmbH
+8079126;RKEF;de:08212:51;Karlsruhe Entenfang;8,359504;49,010666;Verkehrsbetriebe Karlsruhe GmbH
+8079128;RKSR;de:08212:107;Karlsruhe-Kniel. Rheinbergstr.;8,336613;49,035015;Verkehrsbetriebe Karlsruhe GmbH
 8079140;KKBL;de:05315:16701;Köln-Blumenberg;6,881921;51,037414;DB Station und Service AG
 8079141;RWRTP;de:07334:1735;Wörth(Rhein) Bürgerpark;8,254267;49,050843;Albtal-Verkehrs-Gesellschaft mbH
 8079142;RWRTB;de:07334:1734;Wörth(Rhein) Bienwaldhalle;8,260879;49,04978;Albtal-Verkehrs-Gesellschaft mbH
 8079143;RWRTL;de:07334:1714;Wörth(Rhein) Alte Bahnmeisterei;8,266465;49,04862;Albtal-Verkehrs-Gesellschaft mbH
-8079144;RKMT;de:08212:49;Karlsruhe Mühlburger Tor (Kaiserallee);8,382773;49,01064;Verkehrsbetriebe Karlsruhe GmbH 
+8079144;RKMT;de:08212:49;Karlsruhe Mühlburger Tor (Kaiserallee);8,382773;49,01064;Verkehrsbetriebe Karlsruhe GmbH
 8079146;RNFL;de:07332:3062;Neidenfels;8,045236;49,386201;DB Station und Service AG
 8079147;SHW;de:07340:6270;Hinterweidenthal Ost;7,773047;49,203132;DB Station und Service AG
 8079149;RUOEL;de:08215:32002;Unteröwisheim M.-Luther-Str.;8,66202;49,146484;Albtal-Verkehrs-Gesellschaft mbH
